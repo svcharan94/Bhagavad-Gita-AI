@@ -24,7 +24,7 @@ export default function Home() {
             "@type": "Thing",
             "name": "Bhagavad Gita"
           },
-          "description": "Unlock the wisdom of Krishna with Bhagavad Gita AI and ChatGPT-powered insights. Experience personalized interpretation of the Bhagavad Gita like never before.",
+          "description": "Unlock the wisdom of Lord Krishna with Bhagavad Gita AI and ChatGPT-powered insights. Experience personalized interpretation of the Bhagavad Gita like never before.",
           "publisher": {
             "@type": "Organization",
             "name": "Ved Vyas Foundation",
